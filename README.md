@@ -1,16 +1,21 @@
 # Object Oriented Programming in C++
 
+```html
 <p align="center">
 
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
   <img src="https://img.shields.io/badge/OOP-1E1E1E?style=for-the-badge" />
 
-  <a href="https://www.hackerrank.com/profile/rezwanahmedtorab" target="_blank"> <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /> </a>
+  <a href="https://www.hackerrank.com/profile/rezwanahmedtorab">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
 
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
 </p>
+```
+
 
 <p align="center">
   A collection of Object-Oriented Programming (OOP) concepts and practice codes implemented in C++ throughout my Computer Science & Engineering learning journey.

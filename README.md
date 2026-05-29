@@ -106,8 +106,6 @@ This repository helped me improve my understanding of:
 # Future Improvements
 
 * Add more advanced OOP examples
-* Include Data Structures implementation in C++
-* Add mini console-based projects
 * Organize programs topic-wise more efficiently
 * Add code explanations and comments
 
@@ -117,7 +115,7 @@ This repository helped me improve my understanding of:
 
 ### Rezwan Ahmed
 
-CSE Student | Aspiring Software Engineer
+B.Sc Engg in CSE Student | Aspiring Software Developer 
 
 ---
 

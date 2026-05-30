@@ -3,7 +3,7 @@
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/OOP-1E1E1E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Object%20Oriented%20Programming-000000?style=for-the-badge" />
   
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 

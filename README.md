@@ -99,6 +99,9 @@ B.Sc Engg in CSE Student | Aspiring Software Engineer
 
 ---
 
-# Support
+## Note
 
-If you found this repository useful, consider giving it a ⭐ on GitHub.
+This repository is part of my learning journey as a CSE student. 
+The codes, assignments, and reports are shared for educational purposes and may be useful for students who are learning similar concepts.
+
+If you found this repository useful, consider giving it a ⭐ on GitHub. Thank you.

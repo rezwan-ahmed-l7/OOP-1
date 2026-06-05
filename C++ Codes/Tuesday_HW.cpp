@@ -1,64 +1,77 @@
 #include <iostream>
 using namespace std;
 
-class A {
+class A
+{
     int x;
 
 public:
-    A (int a) {
+    A(int a)
+    {
         cout << "Constructing A" << endl;
         x = a;
-        }
+    }
 
-    ~A ( ) {
+    ~A()
+    {
         cout << "Destructing A" << endl;
-         }
+    }
 
-    void showx( ) {
+    void showX()
+    {
         cout << x << endl;
-        }
+    }
 };
 
-class B : public A {
+class B : public A
+{
     int y;
 
 public:
-    B (int a, int b) : A (a) {
+    B(int a, int b) : A(a)
+    {
         cout << "Constructing B" << endl;
         y = a;
-        }
+    }
 
-    ~B ( ) {
+    ~B()
+    {
         cout << "Destructing B" << endl;
-        }
+    }
 
-    void showy( ) {
+    void showY()
+    {
         cout << y << endl;
-        }
+    }
 };
 
-class C : public B {
+class C : public B
+{
     int z;
 
 public:
-    C (int a, int b, int c) : B (a, b) {
+    C(int a, int b, int c) : B(a, b)
+    {
         cout << "Constructing C" << endl;
         z = b;
-        }
+    }
 
-    ~C ( ) {
+    ~C()
+    {
         cout << "Destructing C" << endl;
-        }
+    }
 
-    void showz( ) {
+    void showZ()
+    {
         cout << z << endl;
-        }
+    }
 };
 
-int main( ) {
+int main()
+{
     C obj(1, 2, 3);
-    obj.showx( );
-    obj.showy( );
-    obj.showz( );
+    obj.showX();
+    obj.showY();
+    obj.showZ();
     return 0;
 }

@@ -24,7 +24,7 @@
 
 This repository contains various C++ programs and problem-solving exercises focused on Object-Oriented Programming concepts.
 
-The main purpose of this repository is to strengthen my understanding of OOP principles, improve coding practices, and develop problem-solving skills using C++.
+The main purpose of this repository is to strengthen my understanding of OOP principles, improve coding practices, and develop problem-solving skills using C++
 
 ---
 

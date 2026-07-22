@@ -57,6 +57,13 @@ The main purpose of this repository is to strengthen my understanding of OOP pri
 * Problem Solving
 * Logical Thinking
 * C++ Syntax & Memory Basics
+---
+
+# Related Repository
+
+Data Structures & Algorithms implemented using C++
+
+**DSA Repository:** [DSA-1](https://github.com/rezwan-ahmed-l7/DSA-1)
 
 ---
 

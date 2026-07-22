@@ -59,9 +59,7 @@ The main purpose of this repository is to strengthen my understanding of OOP pri
 * C++ Syntax & Memory Basics
 ---
 
-# Related Repository
-
-Data Structures & Algorithms implemented using C++
+# C++ Related Repositories
 
 - **DSA :**  [DSA 1](https://github.com/rezwan-ahmed-l7/DSA-1)
 - **Problem Solving :**  [Problem Solving](https://github.com/rezwan-ahmed-l7/Problem-Solving)
